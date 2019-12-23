@@ -1,5 +1,3 @@
-// http://labs.udacity.com/android-visualizer/#/android/match-parent
-
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
